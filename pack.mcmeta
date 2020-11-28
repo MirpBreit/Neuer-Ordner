@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": "Das ist SCHNITTLING! V1.4 mit Texturen"
+  },
+  "language": {
+		"sl_SL2":{
+			"name": "Schnittling",
+			"region": "Schnittling",
+			"bidirectional": false
+		}
+	}
+
+}
